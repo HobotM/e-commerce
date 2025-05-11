@@ -1,0 +1,22 @@
+# Build artifacts
+bin/
+obj/
+*.log
+
+# User-specific files
+*.user
+*.suo
+
+# VS / Rider
+.vscode/
+.vs/
+
+# Entity Framework
+Migrations/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Sensitive config (optional)
+appsettings.Development.json

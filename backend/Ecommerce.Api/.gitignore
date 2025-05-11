@@ -1,0 +1,20 @@
+# Build and cache folders
+bin/
+obj/
+*.log
+
+# IDE settings
+.vscode/
+.vs/
+*.user
+*.suo
+
+# EF Core
+Migrations/
+
+# Secrets (optional)
+appsettings.Development.json
+
+# OS clutter
+.DS_Store
+Thumbs.db
